@@ -119,6 +119,11 @@ export function makeCourse(scene) {
           }
 ```
 
+## 参考にした資料
+
+* Three.js ドキュメントページ： https://threejs.org/ (2023/12/13 アクセス)
+*  4 Low Poly Toon City Cars" by <a href="https://sketchfab.com/tselikov.viktor">Viktor Tselikov </a>licensed under  <a href="http://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>
+
 ## 感想
 
 GitHub Classroom のグループ課題を扱うのは初めてだったので，別々の人が独立にリポジトリを更新したときに競合せずに1つの状態にまとまるのか不安だったが，修正するファイルを分けたことで，ほとんど問題が起こらず安心した．
